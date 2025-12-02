@@ -9,7 +9,7 @@ I work mainly with **React, TypeScript, Node.js, Express and MongoDB**, and I al
 **Frontend:** React, TypeScript, TailwindCSS  
 **Backend:** Private Node.js/Express server (API logic & contact form)  
 🔗 [Repository](https://github.com/Kretostan/portfolio)  
-A personal website showcasing my projects, skills and work experience.
+A personal website showcasing my projects and skills.
 
 ### 2. 🧭 Forest  
 **Stack:** HTML, CSS, JavaScript  
